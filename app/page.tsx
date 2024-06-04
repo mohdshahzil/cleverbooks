@@ -12,16 +12,8 @@ const page = () => {
       <div className="h-5"></div>
       <div className="h-5"></div>
       <HeroSection></HeroSection>
-
-      <div className="">
-        <div className="text-5xl">he</div>
-        <div className="text-5xl">he</div>
-        <div className="text-5xl">he</div>
-        <div className="text-5xl">he</div>
-        <div className="text-5xl">he</div>
-        <div className="text-5xl">he</div>
-        <div className="text-5xl">he</div>
-      </div>
+      <div className="h-48" ></div>
+      <div className="bg-white"></div>
     </div>
   );
 };

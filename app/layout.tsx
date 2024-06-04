@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className=" dark ">
-      <body className={inter.className}>
+      <body className={`${inter.className} bg-white`}>
         {" "}
         <div className=" max-h-screen w-full dark:bg-black bg-white  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] relative ">
           {/* Radial gradient for the container to give a faded look */}
