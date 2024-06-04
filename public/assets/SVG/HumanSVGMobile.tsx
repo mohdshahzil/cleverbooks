@@ -1,14 +1,14 @@
 import React from "react";
 
-const HumanSVG = () => {
+const HumanSVGMobile = () => {
   return (
     <div className="  ">
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        width="667.4107"
-        height="541.46275"
-         
-        viewBox="0 0 667.4107 541.46275"
+        width="400"
+        height="500"
+        viewBox="-50 0 667.4107 541.46275"
+        
       >
         <defs></defs>
         <g id="b5c9b1d3-2b74-4f14-9912-7d8edd0df8f8" data-name="Layer 2">
@@ -518,4 +518,4 @@ const HumanSVG = () => {
   );
 };
 
-export default HumanSVG;
+export default HumanSVGMobile;
