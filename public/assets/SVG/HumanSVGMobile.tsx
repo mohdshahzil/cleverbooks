@@ -7,7 +7,7 @@ const HumanSVGMobile = () => {
         xmlns="http://www.w3.org/2000/svg"
         width="390"
         height="500"
-        viewBox="-50 0 667.4107 541.46275"
+        viewBox="-80 200 667.4107 541.46275"
         
       >
         <defs></defs>

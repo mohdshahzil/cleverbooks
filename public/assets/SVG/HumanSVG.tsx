@@ -8,7 +8,7 @@ const HumanSVG = () => {
         width="667.4107"
         height="541.46275"
          
-        viewBox="0 0 667.4107 541.46275"
+        viewBox="-80 0 667.4107 541.46275"
       >
         <defs></defs>
         <g id="b5c9b1d3-2b74-4f14-9912-7d8edd0df8f8" data-name="Layer 2">
